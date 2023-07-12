@@ -1,0 +1,62 @@
+.slider h3, .slider h5 {
+    font-size: 70px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, .5);
+    line-height: 50px;
+}
+
+section{
+    padding: 20px 0;
+}
+
+footer{
+    padding: 2px 0;
+}
+
+.clients h3{
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, .5);
+    margin-bottom: 35px;
+
+}
+
+.slider h3{
+    margin-top: 150px;
+
+}
+
+.parallax-container{
+    height: 30%;
+}
+
+#about .container{
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+.clients .parallax img{
+    filter: grayscale(1);
+    opacity: .7 !important;
+}
+
+.clients img{
+    max-width: 200px;
+    filter: grayscale(1);
+    transition: .3s;
+    margin-bottom: 30px;
+}
+
+.clients img:hover{
+    filter: grayscale(0);
+}
+
+.services{
+    padding-bottom: 50px;
+}
+
+.contact {
+    padding-bottom: 300px;
+}
+
+footer a{
+    font-style: none;
+    color: white;
+}
